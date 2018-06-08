@@ -1,8 +1,5 @@
-/*
-* Factorial dado un número --> desde n * (n-1) * ... hasta 1
- */
 
-package com.cice.ejercicios;
+package ejercicios;
 
 import java.util.Scanner;
 

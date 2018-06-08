@@ -1,4 +1,4 @@
-package com.cice.fundamentos;
+package fundamentos;
 
 public class Operadores {
     //Operadores de relación -> >; <; <=; >=; !=; ==

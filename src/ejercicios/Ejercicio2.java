@@ -1,4 +1,4 @@
-package com.cice.ejercicios;
+package ejercicios;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.cice.fundamentos;
+package fundamentos;
 
 import java.util.Scanner;
 
