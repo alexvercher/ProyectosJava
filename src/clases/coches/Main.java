@@ -1,9 +1,9 @@
-package clases;
+package clases.coches;
 
 import clases.ejemplos.Test;
 import clases.estatica.ClaseEstatica;
 
-public class Main {
+/*public class Main {
 
     public static void main(String[] args) {
         // CLASE COCHE
@@ -27,7 +27,7 @@ public class Main {
         String retorno = mitest.toString();
         System.out.println(retorno);
         System.out.println(mitest.getNumeroEntero());
-        System.out.println(mitest2.getNumeroEntero());*/
+        System.out.println(mitest2.getNumeroEntero());
 
         // Llamada a un método estático de una clase no requiere instanciar el objeto para utilizarlo
         ClaseEstatica.nombreCompuesto("Alejandro", "Vercher");
@@ -41,4 +41,4 @@ public class Main {
 
 
     }
-}
+}*/

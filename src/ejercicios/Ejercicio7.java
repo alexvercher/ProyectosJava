@@ -8,7 +8,10 @@ package ejercicios;
 public class Ejercicio7 {
     public static void main(String[] args) {
 
-        String[] cadena = {"Hola que tal", "Vamos a contar dadenas", "Vale", "Venga va"};
+        String[] cadena = {"Hola que tal",
+                            "Vamos a contar dadenas",
+                            "Vale",
+                            "Venga va"};
         int sumaCaracteres = 0;
         int posicion = 0;
 
