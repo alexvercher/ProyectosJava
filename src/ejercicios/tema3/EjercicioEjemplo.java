@@ -17,13 +17,13 @@ listado de código, en vez de incluir todo el código en el interior del método
 gestión de cada una de las opciones
  */
 
-package ejercicios;
+package ejercicios.tema3;
 
 import javax.swing.plaf.synth.SynthOptionPaneUI;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Ejercicio11 {
+public class EjercicioEjemplo {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

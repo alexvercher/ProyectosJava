@@ -2,7 +2,7 @@
     Calcular el árema y el perímetro de un círculo
  */
 
-package ejercicio01;
+package ejercicios.tema2;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ejercicio01;
+package ejercicios.tema2;
 
 public class Circulo {
 
