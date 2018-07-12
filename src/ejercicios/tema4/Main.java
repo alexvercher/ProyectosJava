@@ -19,11 +19,11 @@ public class Main {
             System.out.println(e.getNombre()+" "+ e.getSalario());
         }
 
-        Empleado empleado1 = gerente;
-        System.out.println(empleado1.getNombre());
+        //Empleado empleado1 = gerente
 
-        Gerente gerente1 = director;
-        gerente1.aumentoSalario();
+        //Gerente gerente1 = director;
+        //gerente1.aumentoSalario();
+        //((Director) gerente1).getMatricula();
         /*
         System.out.println(empleado.getSalario());
         System.out.println(gerente.getSalario());
