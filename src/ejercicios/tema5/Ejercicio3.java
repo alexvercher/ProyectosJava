@@ -9,5 +9,12 @@
 
 package ejercicios.tema5;
 
-public class Ejercicio2 {
+import ejercicios.tema5.logica.Aplicacion;
+
+public class Ejercicio3 {
+
+    public static void main(String[] args) {
+
+        new Aplicacion().mostrarMenu();
+    }
 }
